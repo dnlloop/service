@@ -1,0 +1,17 @@
+   {
+       "version": {
+           "code": 2,
+           "name": "1.1.0"
+       },
+       "update": {
+           "required": false,
+           "message": "نسخه جدید برنامه آماده است!",
+           "features": [
+               "اضافه شدن قابلیت ویرایش ویدیو",
+               "بهبود عملکرد برنامه",
+               "رفع باگ‌های گزارش شده"
+           ],
+           "download_url": "https://play.google.com/store/apps/details?id=daniel.android.coffeeservice",
+           "image_url": "https://example.com/update_image.jpg"
+       }
+   }
