@@ -4,7 +4,7 @@
            "name": "1.1.0"
        },
        "update": {
-           "required": false,
+           "required": ture,
            "message": "نسخه جدید برنامه آماده است!",
            "features": [
                "اضافه شدن قابلیت ویدیو",
