@@ -1,10 +1,10 @@
    {
        "version": {
-           "code": 2,
+           "code": 1,
            "name": "1.1.0"
        },
        "update": {
-           "required": ture,
+           "required": true,
            "message": "نسخه جدید برنامه آماده است!",
            "features": [
                "اضافه شدن قابلیت ویدیو",
