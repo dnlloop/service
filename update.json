@@ -1,20 +1,17 @@
    {
        "version": {
            "code": 2,
-           "name": "1.0.0"
+           "name": "1.1.0"
        },
        "update": {
-           "required": false,
+           "required": true,
            "message": "نسخه جدید برنامه آماده است!",
            "features": [
-               "اضافه شدن قابلیت روبینو دانلودر",
-               "اضافه شدن قابلیت مایکت دانلودر",
-               "تغییر جزئی در نمایش دانلودرها",
-               "تغییر در نحوه دریافت سکه",
+               "اضافه شدن قابلیت ویدیو",
                "بهبود عملکرد برنامه",
                "رفع باگ‌های گزارش شده"
            ],
-           "download_url": "https://gift.nodisk.ir/s/RJqBkfJg7TLQgR7",
+           "download_url": "https://play.google.com/store/apps/details?id=daniel.android.coffeeservice",
            "image_url": "https://example.com/update_image.jpg"
        }
    }
