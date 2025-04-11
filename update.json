@@ -1,7 +1,7 @@
    {
        "version": {
-           "code": 3,
-           "name": "3.0.0"
+           "code": 2,
+           "name": "2.0.0"
        },
        "update": {
            "required": true,
